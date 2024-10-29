@@ -1,7 +1,7 @@
 {
   "chinese": "非",
   "level": "一级字",
-  "stroke": 8,
+  "stroke": 4,
   "structure": "单一结构",
   "radical": "非",
   "syllables": [
